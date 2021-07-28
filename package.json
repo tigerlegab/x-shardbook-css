@@ -1,19 +1,19 @@
 {
    "name": "x-shardbook-css",
-   "version": "0.1.4",
+   "version": "0.1.5",
    "private": true,
    "dependencies": {
-      "antd": "^4.16.7"
+      "antd": "^4.16.9"
    },
    "devDependencies": {
       "autoprefixer": "^10.3.1",
-      "cssnano": "^5.0.6",
+      "cssnano": "^5.0.7",
       "gulp": "^4.0.2",
       "gulp-debug": "^4.0.0",
       "gulp-less": "^5.0.0",
       "gulp-postcss": "^9.0.0",
       "less-plugin-npm-import": "^2.1.0",
-      "postcss": "^8.3.5"
+      "postcss": "^8.3.6"
    },
    "scripts": {
       "build": "gulp build:less"
