@@ -1,9 +1,9 @@
 {
    "name": "x-shardbook-css",
-   "version": "0.1.5",
+   "version": "0.1.6",
    "private": true,
    "dependencies": {
-      "antd": "^4.16.9"
+      "antd": "^4.16.12"
    },
    "devDependencies": {
       "autoprefixer": "^10.3.1",
